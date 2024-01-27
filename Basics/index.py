@@ -1,3 +1,13 @@
+# Basics File created by Hecking-Heck on Github
+# https://github.com/Hecking-Heck
+
+# View the Python Notebook here
+# https://github.com/Hecking-Heck/PythonNotebook
+
+print("Running Python Basics File...")
+
+# LET'S START
+
 # Variables
 varA = 33 # Int
 varC = "Hello" # String
