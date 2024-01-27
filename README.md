@@ -1,5 +1,5 @@
 # This is a Python Notebook
-The files in here are guides on how to get used to python and some quick projects you can do.
+The files here are guides on how to get used to Python and some quick projects you can do.
 
 > [!NOTE]
 > - I will update this when I have time.
@@ -9,7 +9,7 @@ The files in here are guides on how to get used to python and some quick project
 - Install [Python](https://www.python.org/downloads/)
 
 > [!NOTE]
-> - I am using python 3.12.1
+> - I am using Python 3.12.1
 
 - Install an IDE such as [Visual Studio Code](https://code.visualstudio.com)
  
@@ -24,3 +24,6 @@ The files in here are guides on how to get used to python and some quick project
 > ```bash
 > cd Basics
 > ```
+
+If the file successfully runs, you are all set!
+Read the files in the .zip for more information and to get started with Python!
