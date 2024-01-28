@@ -14,8 +14,11 @@ pip install tk pandas flask requests pywebio plotly
 # Getting an IDE
 Any of the following will do but I prefer Visual Studio Code.
 [Pycharm](https://www.jetbrains.com/pycharm/)
+
 [Visual Studio Code](https://code.visualstudio.com)
+
 [Atom](https://atom-editor.cc)
+
 
 # Quickstart Guide
 - Install [Python](https://www.python.org/downloads/)
