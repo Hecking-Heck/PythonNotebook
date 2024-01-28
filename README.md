@@ -5,6 +5,12 @@ The files here are guides on how to get used to Python and some quick projects y
 > - I will update this when I have time.
 > - I am mainly using this as my own notes.
 
+# Requisites
+These are needed to run the files in the project
+``bash
+pip install tk, pandas, flask, requests, json, pywebio, plotly
+``
+
 # Quickstart Guide
 - Install [Python](https://www.python.org/downloads/)
 
