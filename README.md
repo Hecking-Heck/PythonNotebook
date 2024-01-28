@@ -7,9 +7,9 @@ The files here are guides on how to get used to Python and some quick projects y
 
 # Requisites
 These are needed to run the files in the project
-``bash
+```bash
 pip install tk, pandas, flask, requests, json, pywebio, plotly
-``
+```
 
 # Quickstart Guide
 - Install [Python](https://www.python.org/downloads/)
