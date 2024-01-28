@@ -27,3 +27,6 @@ The files here are guides on how to get used to Python and some quick projects y
 
 If the file successfully runs, you are all set!
 Read the files in the .zip for more information and to get started with Python!
+
+# Credits
+My Flask Meme Website uses the meme-api.com api - https://github.com/D3vd/Meme_Api (https://meme-api.com/gimme)
