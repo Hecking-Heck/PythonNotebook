@@ -8,7 +8,7 @@ The files here are guides on how to get used to Python and some quick projects y
 # Requisites
 These are needed to run the files in the project
 ```bash
-pip install tk pandas flask requests pywebio plotly
+pip install tk pandas flask requests pywebio plotly pyinstaller
 ```
 
 # Getting an IDE
