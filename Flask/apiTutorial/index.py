@@ -1,3 +1,9 @@
+# Request Helpers
+# GET - Gets something
+# POST - Creates something
+# PUT - Updates something
+# DELETE - Deletes something
+
 # Import
 from flask import Flask, request, jsonify
 

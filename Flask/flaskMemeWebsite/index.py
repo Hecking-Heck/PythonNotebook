@@ -25,7 +25,7 @@ def get_meme():
 @app.route('/')
 def index():
     meme_pic,subreddit = get_meme()
-    return render_template("index.html", meme_pic=meme_pic, subreddit=subreddit)
+    return render_template("index.html", meme_pic=meme_pic, subreddit=subreddit), 200
 
 # Run the app
 if __name__ == '__main__':

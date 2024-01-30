@@ -9,7 +9,7 @@ app = Flask(__name__)
 # Define a route and view function
 @app.route('/')
 def hello_world():
-    return render_template("index.html")
+    return render_template("index.html"), 200
 
 # Run the app
 if __name__ == '__main__':
