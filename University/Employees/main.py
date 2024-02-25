@@ -1,3 +1,4 @@
+# Import
 from pywebio.input import *
 from pywebio.output import *
 
@@ -15,7 +16,7 @@ file.close()
 employees.sort()
 
 # Display popup with options
-selected_option = select("Select a member of staff", employees)
+selected_option = select('Select a member of staff', employees)
 
 # Create a dictionary to track password resets
 staff_password_resets = {}
