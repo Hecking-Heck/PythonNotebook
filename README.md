@@ -8,7 +8,7 @@ The files here are guides on how to get used to Python and some quick projects y
 # Requisites
 These are needed to run the files in the project
 ```bash
-pip install tk pandas flask requests pywebio plotly pyinstaller matplotlib seaborn numpy jupyter
+pip install tk pandas flask requests pywebio plotly pyinstaller matplotlib seaborn numpy jupyter scikit-learn
 ```
 
 # Getting an IDE
@@ -46,3 +46,8 @@ Read the files in the .zip for more information and to get started with Python!
 
 # Credits
 My Flask Meme Website uses the meme-api.com api - https://github.com/D3vd/Meme_Api (https://meme-api.com/gimme)
+
+# Resources used
+- Python Programming for the absolute beginner (Third Edition) - Michael Dawson
+- The Pyton Workshop
+- Artificial Intelligence with Python
