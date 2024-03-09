@@ -11,6 +11,11 @@ These are needed to run the files in the project
 pip install tk pandas flask requests pywebio plotly pyinstaller matplotlib seaborn numpy jupyter scikit-learn
 ```
 
+You can alternatively use the Requirements.txt file provided
+```bash
+pip install -r requirements.txt
+```
+
 # Getting an IDE
 Any of the following will do but I prefer Visual Studio Code.
 
