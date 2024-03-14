@@ -39,3 +39,28 @@ while choice != "0":
             print(f"\n {term} means {definition}")
         else:
             print(f"Sorry I do not know {term}.")
+    elif choice == "2":
+        term = input("What term do you want me to add? ")
+        if term not in geek:
+            definition = input("What is the definition?")
+            geek[term] = definition
+            print(f"\n {term} has been added.")
+        else:
+            print(f"Term: {term} already exists. Try redefining it.")
+    elif choice == "3":
+        term = input("What term do you want me to redefine? ")
+        if term in geek:
+            definition = input("What is the definition?")
+            geek[term] = definition
+            print(f"\n {term} has been redefined.")
+        else:
+            print(f"Term: {term} can't be found. Try adding it.")
+    elif choice == "4":
+        term = input("What term do you want me to delete? ")
+        if term in geek:
+            del geek[term]
+            print(f"\n Okay, {term} has been deleted.")
+        else:
+            print(f"Term: {term} can't be found.")
+    else:
+        print(f"\nSorry but {choice} is not a valid choice.")

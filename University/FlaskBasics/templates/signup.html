@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Sign Up</title>
+</head>
+
+<body>
+    <div>
+        <form action="/login/" method="GET">
+            <label for="fname">First Name:</label>
+            <input type="text" id="fname" name="fname" required>
+            <br>
+            <label for="lname">Last Name:</label>
+            <input type="text" id="lname" name="lname" required>
+            <br>
+            <label for="email">Email:</label>
+            <input type="text" id="email" name="email" required>
+            <br>
+            <label for="age">Age:</label>
+            <input type="text" id="age" name="age" required>
+            <br>
+            <!-- Obviously bad as it will be send in plaintext, okay for development. -->
+            <label for="password">Password:</label>
+            <input type="text" id="password" name="password" required>
+            <br>
+            <button type="submit">Sign Up</button>
+        </form>
+    </div>
+</body>
+
+</html>
