@@ -6,12 +6,7 @@ The files here are guides on how to get used to Python and some quick projects y
 > - I am mainly using this as my own notes.
 
 # Requisites
-These are needed to run the files in the project
-```bash
-pip install tk pandas flask requests pywebio plotly pyinstaller matplotlib seaborn numpy jupyter scikit-learn
-```
-
-You can alternatively use the Requirements.txt file provided
+To install the neccessary packages, you can use the Requirements.txt file provided
 ```bash
 pip install -r requirements.txt
 ```
